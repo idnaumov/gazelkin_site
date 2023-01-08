@@ -282,7 +282,7 @@ header .container {
       font-size: 22px;
       line-height: 140%;
 
-      width: 426px;
+      max-width: 426px;
 
       @media (max-width:768px) {
          display: none;
